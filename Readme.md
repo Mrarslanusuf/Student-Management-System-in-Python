@@ -1,5 +1,9 @@
 #Student Management System Project in Python
 
+How  to Run this Code Simple Follow the Step after Downloading 
+
+![](images/Screenshot.png)
+
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
 
 ***** Give A STAR IF YOU LOVED MY WORK *****
@@ -8,6 +12,4 @@
 
 ***** FOR CONTACT :- https://www.facebook.com/mrarslan07  *****
 
-
-
-THANK YOU FOR DOWNLOADING :) 
+***** Give A STAR IF YOU LOVED MY WORK *****
